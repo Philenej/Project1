@@ -1,0 +1,263 @@
+
+.navbar {
+    width: 100%;
+    height: 120px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+nav{
+    flex: 1;
+    padding-left: 5px;
+    border-bottom: 1px solid #aaaaaa;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0px 5px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+*nav ul li a:hover{
+    color: rgb(157, 249, 246)3, 226;
+}
+.Logo{
+    width: 120px;
+    height: 140px;
+}
+
+.layer1 {
+    height: 300px;
+    background-color: rgba(57, 178, 152, 0.655);
+}
+.H1 {
+    font-size: 22px;
+    font-weight: 600;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-top: 60px;
+}
+.Homeimg {
+ width: 50%;
+ height: 35%;
+ position: absolute;
+ bottom: 110px;
+ right: 20px;
+ border-radius: 20%;
+ z-index: 99;
+
+}
+.H2{
+  position: absolute;
+  top: 140px;
+  left: 16px;
+}
+.container2{
+    position: relative;
+    text-align: center;
+}
+.bottomimg{
+width: 100%;
+margin-top: 40px;
+background-image: url(images/wave1.png);
+}
+
+.layer2 {
+    height: 300px;
+    margin-top: 80px;
+    background-color: white;
+}
+.H3{
+    font-size: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+}
+.P1{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.layer3 {
+    height: 400px;
+    background-color: rgb(151, 213, 175);
+    border-radius: 20%;
+    margin-bottom: 30px;
+}
+.H4{
+    font-size: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 50px;
+    text-align: center;
+}
+.P2{
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.P3 {
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.P4 {
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.layer4 {
+    height: 200px;
+    background-color: rgb(206, 241, 247);
+}
+.Socialmedia{
+   margin-top: 130px;
+   margin-left: 190px;
+}
+
+.layer1p2{
+    height: 420px;
+    background-color: rgba(57, 178, 152, 0.655);
+}
+.Hoed{
+    width: 45%;
+    position: absolute;
+    top: 125px;
+    left: 20px;
+    border-radius: 20%;
+}
+.Patches{
+    width: 45%;
+    height: 35%;
+    position: absolute;
+    bottom: 110px;
+    right: 20px;
+    border-radius: 20%;
+    z-index: 99;
+}
+.DIY{
+    font-size: 22px;
+    font-weight: 600;
+    padding-left: 190px;
+}
+.Tips{
+    font-size: 22px;
+    font-weight: 600;
+    padding-left: 190px;
+}
+.layer2p2{
+    height: 600px;
+    background-color: antiquewhite;
+    margin-top: 60px;
+    border-radius: 15%;
+}
+.Tip1{
+    font-size: 22px;
+    text-align: center;
+}
+.stap1{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.P12{
+    text-align: center;
+}
+.stap2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 150px;
+}
+.stap3{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 150px;
+}
+.gallery{
+    display: inline-block;
+    width: 80px;
+    /*border: 1px solid gray;*/
+    margin-top: 60px;
+    margin-left: 5px;
+}
+.gallery img{
+    width: 100%;
+}
+.gallery .description{
+    text-align: center;
+}
+.layer3p2{
+    height: 500px;
+    margin-top: 60px;
+    border-radius: 15%;
+    background-color: rgb(151, 213, 175)
+}
+
+.Tip2{
+    font-size: 22px;
+    margin-left: 40px; 
+}
+.stap12{
+margin-left: 20px;
+}
+.stap22{
+margin-left: 20px;
+}
+.stap32{
+margin-left: 20px;
+}
+.BlazerBe{
+    width: 35%;
+    height: 25%;
+    position: absolute;
+    right: 20px;
+    border-radius: 20%;
+}
+.P13{
+    margin-left: 10px;
+    margin-right: 40px;
+}
+.layer4p2{
+    height: 200px;
+    background-color: rgb(206, 241, 247);
+    margin-top: 20px;
+}
+.container3{
+    position: relative;
+    text-align: center;
+}
+.Wave2{
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+    background-image: url(images/Wave2.png);
+}
+.interviewH{
+    position: absolute;
+    top: 80px;
+    left: 16px;
+}
+.InterviewFoto{
+    width: 35%;
+    height: 25%;
+    position: absolute;
+    bottom: 200px;
+    right: 20px;
+    border-radius: 20%;
+    z-index: 99;
+}
+.layer2p3{
+    height: 600px;
+    background-color: rgba(57, 178, 152, 0.655);
+}
+.Vraag1{
+    font-size: 18px;
+    margin-left: 10px; 
+}
