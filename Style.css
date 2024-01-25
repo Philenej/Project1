@@ -81,6 +81,7 @@ background-image: url(images/wave1.png);
 }
 .H3{
     font-size: 20px;
+    font-weight: 600;
     padding-left: 80px;
     padding-right: 80px;
     text-align: center;
@@ -97,9 +98,11 @@ background-image: url(images/wave1.png);
     background-color: rgb(151, 213, 175);
     border-radius: 20%;
     margin-bottom: 30px;
+    box-shadow: 5px 5px #8e8e8e;
 }
 .H4{
     font-size: 20px;
+    font-weight: 600;
     padding-left: 60px;
     padding-right: 60px;
     padding-top: 50px;
@@ -122,11 +125,11 @@ background-image: url(images/wave1.png);
 }
 
 .layer4 {
-    height: 200px;
+    height: 120px;
     background-color: rgb(206, 241, 247);
 }
 .Socialmedia{
-   margin-top: 130px;
+   margin-top: 70px;
    margin-left: 190px;
 }
 
@@ -166,29 +169,33 @@ background-image: url(images/wave1.png);
     padding-left: 190px;
 }
 .layer2p2{
-    height: 650px;
+    height: 750px;
     background-color: antiquewhite;
-    margin-top: 60px;
-    border-radius: 10%;
-    margin-bottom: 30px;
+    margin-top: 90px;
+    border-radius: 15%;
+    margin-bottom: 80px;
+}
+.Bloemblauw{
+margin-left: 20px;
 }
 .Tip1{
     font-size: 22px;
     text-align: center;
     padding-left: 60px;
     padding-right: 60px;
-    padding-top: 30px;
     text-align: center;
 }
 .stap1{
     font-size: 24px;
     font-weight: 600;
     margin-left: 150px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .P12{
     text-align: center;
     font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .stap2{
     font-size: 24px;
@@ -203,21 +210,21 @@ background-image: url(images/wave1.png);
 .gallery{
     display: flex;
     justify-content: space-between;
-    width: 80px;
-    border: 1px solid gray;
-    
     margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 40px;
 }
-.gallery div{
+.gallery-item{
     text-align: center;
-    
-}
-.gallery img{
- 
     max-width: 80px;
 }
+
+.gallery img{
+    max-width: 100%;
+    border-radius: 10%;
+    
+}
 .gallery .description{
- 
     margin-top: 10px;
 }
 .layer3p2{
@@ -243,6 +250,10 @@ margin-left: 20px;
 .stap32{
 margin-left: 20px;
 }
+.Bladblauw{
+    margin-left: 30px;
+    margin-top: 50px;
+}
 .BlazerBe{
     width: 35%;
     height: 25%;
@@ -255,9 +266,9 @@ margin-left: 20px;
     margin-right: 40px;
 }
 .layer4p2{
-    height: 200px;
+    height: 120px;
     background-color: rgb(206, 241, 247);
-    margin-top: 20px;
+    margin-top: 80px;
 }
 .container3{
     position: relative;
@@ -310,6 +321,7 @@ background-color: rgb(151, 213, 175);
 border-radius: 20%;
 margin-bottom: 30px;
 margin-top: 100px;
+box-shadow: 5px 5px #8e8e8e;
 }
 .BlazerGlitter{
     width: 40%;
